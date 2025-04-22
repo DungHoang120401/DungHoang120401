@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DungHoang120401
+- 🌱 I’m currently learning: Full-stack Web Development, AI & Automation tools
+- 🤝 I’m looking to collaborate on: Open-source projects & educational tech
+- 💬 Ask me about: JavaScript, Python, ChatGPT, or productivity tools
+- 📫 How to reach me: dung.hoang.dev@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love building miniature dioramas in my free time!
